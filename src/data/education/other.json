@@ -1,0 +1,19 @@
+{
+    "slug": "other",
+    "title": "Otros logros académicos",
+    "description": "Talleres y Conferencias en las que he participado",
+    "items":[
+        {
+            "name": "Taller VueJS",
+            "community": "Comunidad SlothTech"
+        },
+        {
+            "name": "PHP para todos",
+            "community": "Comunidad SlothTech"
+        },
+        {
+            "name": "Introduccion a servicios AWS",
+            "community": "Comunidad SlothTech"
+        }
+    ]
+}

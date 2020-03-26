@@ -1,0 +1,62 @@
+
+{
+    "data": {
+      "email": "hafido1403@gmail.com",
+      "username": "HafidOD",
+      "certificates": [
+        {
+          "score": 9,
+          "code": "02d3014f-195a-45bf-adb3-8b2b85c0d813",
+          "title": "Curso profesional de PHP"
+        },
+        {
+          "score": 9,
+          "code": "0fec0d13-4e71-442c-97fb-ae42f8af0472",
+          "title": "Curso Profesional de Python"
+        }
+      ],
+      "articles": [
+        
+      ],
+      "courses": [
+        {
+          "title": "Curso de javaScript Gratis",
+          "progress": "0.0",
+          "url": "http://codigofacilito.com/courses/javascript"
+        },
+        {
+          "title": "Curso profesional de PHP",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/php-profesional"
+        },
+        {
+          "title": "Curso Profesional de Python",
+          "progress": "100.0",
+          "url": "http://codigofacilito.com/courses/python-profesional"
+        },
+        {
+          "title": "Crea un sitio personal con Gatsby",
+          "progress": "53.0",
+          "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+        },
+        {
+          "title": "Curso de Fundamentos de React",
+          "progress": "25.0",
+          "url": "http://codigofacilito.com/courses/react-intro-gratis"
+        }
+      ],
+      "finished_courses": [
+        {
+          "title": "Curso profesional de PHP",
+          "url": "http://codigofacilito.com/courses/php-profesional"
+        },
+        {
+          "title": "Curso Profesional de Python",
+          "url": "http://codigofacilito.com/courses/python-profesional"
+        }
+      ]
+    },
+    "errors": [
+      
+    ]
+  }

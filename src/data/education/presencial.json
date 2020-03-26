@@ -1,0 +1,15 @@
+{
+    "slug": "presencial",
+    "title": "Formacion Académica",
+    "description": "Formacion académica, grados de estudio e instituciones a las que asistí",
+    "items":[
+        {
+            "name": "Universidad del Caribe, Cancún, Quintana Roo",
+            "degree": "Ingenieria en Telematica"
+        },
+        {
+            "name": "CECyTE Plantel IV",
+            "degree": "TSMEC"
+        }
+    ]
+}

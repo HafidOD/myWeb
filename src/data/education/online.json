@@ -1,0 +1,17 @@
+{
+    "slug": "online",
+    "title": "Cursos en línea",
+    "description": "Cursos finalizados en plataformas de educacion en internet",
+    "items":[
+        {
+            "name": "Curso Profesional de PHP",
+            "plataform": "Codigo Facilito",
+            "url": "https://codigofacilito.com/courses/php-profesional"
+        },
+        {
+            "name": "Curso Profesional de Python 3",
+            "plataform": "Codigo Facilito",
+            "url": "https://codigofacilito.com/courses/python-profesional"
+        }
+    ]
+}

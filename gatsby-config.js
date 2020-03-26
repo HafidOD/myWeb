@@ -5,5 +5,16 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  plugins: [
+    'gatsby-plugin-postcss', //conf de tailwindcss
+    'gatsby-transformer-json', // conf para graphql
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'data',
+        path: `${__dirname}/src/data`
+      }
+    }
+  ],
+  
 }
